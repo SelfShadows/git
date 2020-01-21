@@ -1,0 +1,29 @@
+我的第一阶段开始
+git init 
+git status
+git add .
+git commit -m
+
+git log
+
+git reflog
+
+git reset --hard
+
+branch branch dev branch
+
+branch dev 
+branch bug
+branch -d bug
+git checkout 
+checkout 
+branch
+git branch dev
+git branch -d bug
+git checkout dev
+checkout 
+git merge 
+git merge
+git merge dev
+git remote add origin origin
+origin
